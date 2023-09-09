@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route, Routes, Link} from 'react-router-dom';
-import Login from './components/login';
+import Login from './components/Login';
 import FriendsList from './components/FriendList';
 import AddFriend from './components/AddFriend';
 import Logout from './components/Logout';
